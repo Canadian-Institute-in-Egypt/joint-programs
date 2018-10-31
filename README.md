@@ -1,2 +1,2 @@
 # joint-programs
-Github repository for Canadian Institute in Egypt documents
+Github repository for Canadian Institute in Egypt's documents
