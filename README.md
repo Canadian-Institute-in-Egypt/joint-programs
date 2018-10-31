@@ -1,2 +1,2 @@
 # joint-programs
-Github repository for Canadian Institute in Egypt's documents
+Reference documents for the joint Master's program.
